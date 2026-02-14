@@ -7,3 +7,21 @@
 
 "Vision":
   color: "#009f36"
+
+"FMCAD 2022":
+  url: https://fmcad.org/FMCAD22/
+
+"POPL 2021":
+  url: https://popl21.sigplan.org/
+
+"VMCAI 2025":
+  url: https://conf.researchr.org/home/VMCAI-2025
+
+"VSTTE 2025":
+  url: https://systemf.epfl.ch/etc/vstte2025/
+
+"ATVA 2021":
+  url: https://formal-analysis.com/atva/2021/
+
+"MS Thesis":
+  url: https://cs.nyu.edu/dynamic/reports/?type=Masters&year=2020

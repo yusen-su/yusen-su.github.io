@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"priya":
+  - firstname: ["Siddharth", "S."]
+    url: https://priyasiddharth.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"gurfinkel":
+  - firstname: ["Arie", "A."]
+    url: https://arieg.bitbucket.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bao":
+  - firstname: ["Yuyan", "Y."]
+    url: https://yuyanbao.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"wies":
+  - firstname: ["Thomas", "T."]
+    url: https://cs.nyu.edu/~wies/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"navas":
+  - firstname: ["Jorge", "Jorge A.", "J. A."]
+    url: https://jorgenavas.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"garcia-contreras":
+  - firstname: ["Isabel", "I."]
+    url: https://igcontreras.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"vizel":
+  - firstname: ["Yakir", "Y."]
+    url: https://cris.technion.ac.il/en/persons/yakir-vizel/
