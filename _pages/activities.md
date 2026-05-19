@@ -12,12 +12,12 @@ nav_order: 5
 ### Professional Activities
 
 - **Artifact Eveluation Committee Member**
-    - 2026: [TACAS'26](https://etaps.org/2026/conferences/tacas/)
+    - 2026: [TACAS'26](https://etaps.org/2026/conferences/tacas/), [CAV'26](https://conferences.i-cav.org/2026/)
     - 2025: [TACAS'25](https://etaps.org/2025/conferences/tacas/), [CAV'25](https://conferences.i-cav.org/2025/)
 - **External Reviewer**
     - 2026: TACAS'26
-    - 2025: FMCAD'25
-    - 2024: FM'24
+    - 2025: [FMCAD'25](https://fmcad.org/FMCAD25/)
+    - 2024: [FM'24](https://www.fm24.polimi.it/)
     - 2023: TACAS'23, FM'23
     - 2022: TACAS'22, FMCAD'22, NFM'22
 - **Volunteer**
