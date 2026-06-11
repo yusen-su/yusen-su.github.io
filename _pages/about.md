@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: '🔍 <strong style="color: var(--global-theme-color)">On the job market — seeking industry roles in formal verification, static/program analysis, and software security.</strong>'
 
 profile:
   align: right
