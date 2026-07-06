@@ -1,18 +1,22 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   fdwT4FwAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Data Flow Refinement Type Inference Tool - DRIFT^2
     year: '2020'
   fdwT4FwAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 2
     title: Automatic Inference of Relational Object Invariants
     year: '2025'
   fdwT4FwAAAAJ:d1gkVwhDpl0C:
     citations: 18
     title: Bounded model checking for LLVM
     year: '2022'
+  fdwT4FwAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: 'Template DBM: A New Weakly Relational Domain for Efficient Memory-Access Validation'
+    year: '2025'
   fdwT4FwAAAAJ:u-x6o8ySG0sC:
     citations: 19
     title: Verifying verified code
