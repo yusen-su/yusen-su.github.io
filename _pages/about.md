@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '🔍 <strong style="color: var(--global-theme-color)">On the job market — seeking industry roles in formal verification, static/program analysis, and software security.</strong>'
+subtitle: '<img src="/assets/img/blackduck.png" alt="Black Duck logo" style="height: 1.2em; vertical-align: text-bottom; border-radius: 50%;"> <strong style="color: var(--global-theme-color)">I will be joining <a href="https://www.blackduck.com/" style="text-decoration: underline;">Black Duck</a>!</strong>'
 
 profile:
   align: right
