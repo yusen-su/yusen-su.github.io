@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: '<img src="/assets/img/blackduck.png" alt="Black Duck logo" style="height: 1.2em; vertical-align: text-bottom; border-radius: 50%;"> <strong style="color: var(--global-theme-color)">I will be joining <a href="https://www.blackduck.com/" style="text-decoration: underline;">Black Duck</a>!</strong>'
+subtitle: '<img src="/assets/img/blackduck.png" alt="Black Duck logo" style="height: 1.2em; vertical-align: text-bottom; border-radius: 50%;"> <strong style="color: var(--global-theme-color)">Software Engineer at <a href="https://www.blackduck.com/" style="text-decoration: underline;">Black Duck</a> (Remote)</strong>'
 
 profile:
   align: right
   image: yusen.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Davis Centre, No. 3726</p>
-    <p>200 University Avenue West</p>
-    <p>Waterloo, Ontario, Canada</p>
+    <p>Remote</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Yusen Su (苏雨森), a PhD student in [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) at the [University of Waterloo](http://www.uwaterloo.ca/), advised by Prof. [Arie Gurfinkel](https://arieg.bitbucket.io/).
+I'm Yusen Su (苏雨森), a Software Engineer at [Black Duck](https://www.blackduck.com/). I received my PhD in [Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/) from the [University of Waterloo](http://www.uwaterloo.ca/), where I was advised by Prof. [Arie Gurfinkel](https://arieg.bitbucket.io/).
 
 <!-- I hold an MSc in Computer Science from NYU (advised by Prof. Thomas Wies), a BSc from the University of Minnesota, and a dual BSc from the University of Electronic Science and Technology of China. -->
 
