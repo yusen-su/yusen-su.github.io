@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-26'
 papers:
   fdwT4FwAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 2
     title: Automatic inference of relational object invariants
     year: '2025'
+  fdwT4FwAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'Scalable Program Analysis: Abstract Interpretation Techniques and Practical Applications'
+    year: '2026'
   fdwT4FwAAAAJ:d1gkVwhDpl0C:
     citations: 22
     title: Bounded model checking for LLVM
@@ -22,6 +26,6 @@ papers:
     title: Verifying verified code
     year: '2022'
   fdwT4FwAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 24
     title: Data flow refinement type inference
     year: '2021'
