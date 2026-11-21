@@ -12,6 +12,7 @@ nav_order: 5
 ### Professional Activities
 
 - **Artifact Eveluation Committee Member**
+    - 2027: [TACAS'27](https://etaps.org/2027/conferences/tacas/), [VMCAI'27](https://conf.researchr.org/home/VMCAI-2027)
     - 2026: [TACAS'26](https://etaps.org/2026/conferences/tacas/), [CAV'26](https://conferences.i-cav.org/2026/)
     - 2025: [TACAS'25](https://etaps.org/2025/conferences/tacas/), [CAV'25](https://conferences.i-cav.org/2025/)
 - **External Reviewer**
